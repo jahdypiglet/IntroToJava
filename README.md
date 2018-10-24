@@ -1,4 +1,4 @@
 # IntroToJava
 practice
 
-practice using exercises
+practice using exercises in book
